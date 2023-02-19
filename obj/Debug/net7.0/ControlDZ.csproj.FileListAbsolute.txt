@@ -1,0 +1,15 @@
+C:\Users\Петр\Desktop\ControlDZ\bin\Debug\net7.0\ControlDZ.exe
+C:\Users\Петр\Desktop\ControlDZ\bin\Debug\net7.0\ControlDZ.deps.json
+C:\Users\Петр\Desktop\ControlDZ\bin\Debug\net7.0\ControlDZ.runtimeconfig.json
+C:\Users\Петр\Desktop\ControlDZ\bin\Debug\net7.0\ControlDZ.dll
+C:\Users\Петр\Desktop\ControlDZ\bin\Debug\net7.0\ControlDZ.pdb
+C:\Users\Петр\Desktop\ControlDZ\obj\Debug\net7.0\ControlDZ.csproj.AssemblyReference.cache
+C:\Users\Петр\Desktop\ControlDZ\obj\Debug\net7.0\ControlDZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Петр\Desktop\ControlDZ\obj\Debug\net7.0\ControlDZ.AssemblyInfoInputs.cache
+C:\Users\Петр\Desktop\ControlDZ\obj\Debug\net7.0\ControlDZ.AssemblyInfo.cs
+C:\Users\Петр\Desktop\ControlDZ\obj\Debug\net7.0\ControlDZ.csproj.CoreCompileInputs.cache
+C:\Users\Петр\Desktop\ControlDZ\obj\Debug\net7.0\ControlDZ.dll
+C:\Users\Петр\Desktop\ControlDZ\obj\Debug\net7.0\refint\ControlDZ.dll
+C:\Users\Петр\Desktop\ControlDZ\obj\Debug\net7.0\ControlDZ.pdb
+C:\Users\Петр\Desktop\ControlDZ\obj\Debug\net7.0\ControlDZ.genruntimeconfig.cache
+C:\Users\Петр\Desktop\ControlDZ\obj\Debug\net7.0\ref\ControlDZ.dll
